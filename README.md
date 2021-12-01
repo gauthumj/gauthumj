@@ -23,6 +23,9 @@
 [<img  src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" align="left"/>](https://opencv.org/)
 
 <br>
+<br>
+<br>
+<br>
 
 [<img  src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" align="left"/>](https://www.cprogramming.com/)
 [<img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" align="left"/>](https://keras.io/)
@@ -32,7 +35,7 @@
 [<img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" align="left"/>](https://www.cprogramming.com/)
 [<img  src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" align="left"/>](https://www.cprogramming.com/)
 [<img  src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" align="left"/>](https://www.cprogramming.com/)
-<br>
+
 <br>
 <br>
 <br>
