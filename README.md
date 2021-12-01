@@ -1,6 +1,6 @@
 # Hello, there!
 
-### I'm a student at Vellore Institute of Technology, Chennai 👨🏻‍🎓. Love to learn new languages, algorithms and tools and build projects that have real life applications!🚀
+### I'm a student at Vellore Institute of Technology, Chennai 🎓. Love to learn new languages, algorithms and tools and build projects that have real life applications!🚀
 
 # My most used languages
 
