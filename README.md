@@ -1,4 +1,6 @@
-# Hello, there!
+<img style='width: 100%; max-height: 100%' src='https://c.tenor.com/WAOHaPDD8ksAAAAM/hello-there-hello.gif'>
+
+# Hello, There!
 
 ### I'm a student at Vellore Institute of Technology, Chennai 🎓. Love to learn new languages, algorithms and tools and build projects that have real life applications!🚀
 
