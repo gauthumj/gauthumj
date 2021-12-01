@@ -1,4 +1,4 @@
-<img style='width: 100%; max-height: 100%' src='https://c.tenor.com/WAOHaPDD8ksAAAAM/hello-there-hello.gif'>
+<img style='width: 50%;' src='https://c.tenor.com/WAOHaPDD8ksAAAAM/hello-there-hello.gif'>
 
 # Hello, There!
 
