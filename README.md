@@ -12,7 +12,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=gauthumj&show_icons=true&theme=synthwave">
 
-# Tools and and Technologies
+# Tools and Technologies
 
 [<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" align="left">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" align="left" />](https://www.djangoproject.com/)
