@@ -2,7 +2,7 @@
 
 # Hello, There!
 
-### I'm a student at Vellore Institute of Technology, Chennai 🎓. Love to learn new languages, algorithms and tools and build projects that have real life applications!🚀
+### I'm a student at Vellore Institute of Technology, Chennai 🎓. I love learning new languages, algorithms and tools and building projects that have real life applications!🚀
 
 # My most used languages
 
@@ -33,10 +33,10 @@
 [<img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" align="left"/>](https://keras.io/)
 [<img  src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" align="left"/>](https://www.arduino.cc/)
 [<img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" align="left"/>](https://www.r-project.org/)
-[<img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" align="left"/>](https://www.cprogramming.com/)
-[<img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" align="left"/>](https://www.cprogramming.com/)
-[<img  src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" align="left"/>](https://www.cprogramming.com/)
-[<img  src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" align="left"/>](https://www.cprogramming.com/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" align="left"/>](https://reactjs.org/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" align="left"/>](https://www.github.com)
+[<img  src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" align="left"/>](https://cloud.google.com/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" align="left"/>](https://firebase.google.com/)
 
 <br>
 <br>
