@@ -29,7 +29,7 @@
 <br>
 <br>
 
-[<img  src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" align="left"/>](https://www.cprogramming.com/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" align="left"/>](https://flutter.dev/)
 [<img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" align="left"/>](https://keras.io/)
 [<img  src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" align="left"/>](https://www.arduino.cc/)
 [<img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" align="left"/>](https://www.r-project.org/)
