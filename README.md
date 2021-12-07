@@ -14,6 +14,8 @@
 
 # Tools and Technologies
 
+<p>
+
 [<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" align="left">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" align="left" />](https://www.djangoproject.com/)
 [<img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" align="left" />](https://flask.palletsprojects.com/en/2.0.x/)
@@ -42,8 +44,14 @@
 <br>
 <br>
 <br>
+</p>
 
 # Connect with me!
 
 [<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gauthum-j-2399a0188/)
 [<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gauthum_j/)
+
+<br>
+<br>
+
+> ### The greatest glory in succeeding lies not in never falling, but in rising every time we fall. - Ralph Waldo Emerson
