@@ -6,7 +6,7 @@
 
 # My most used languages
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gauthumj&theme=synthwave&layout=compact&langs_count=12">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gauthumj&count_private=true&theme=synthwave&layout=compact&langs_count=12">
 
 # My stats
 
