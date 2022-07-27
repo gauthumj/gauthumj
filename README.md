@@ -44,6 +44,16 @@
 <br>
 <br>
 <br>
+
+[<img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" height="50" align="left"/>](https://dart.dev/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" height="50" align="left"/>](https://nextjs.org/)
+[<img src="https://www.sophos.com/sites/default/files/2022-02/aws-logo-white-orange.png" height="50" align="left"/>](https://aws.amazon.com/)
+
+
+<br>
+<br>
+<br>
+<br>
 </p>
 
 # Connect with me!
