@@ -2,7 +2,7 @@
 
 # Hello, There!
 
-### I'm a student at Vellore Institute of Technology, Chennai 🎓. I love learning new languages, algorithms and tools and building projects that have real life applications!🚀
+### I'm a developer who loves spending hours automating stuff that will probably take 5 minutes🙃. I also love exploring and learning new tech, tools and algos.
 
 # My most used languages
 
