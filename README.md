@@ -4,13 +4,13 @@
 
 ### I'm a developer who loves spending hours automating stuff that will probably take 5 minutes🙃. I also love exploring and learning new tech, tools and algos.
 
-# My most used languages
+<!-- # My most used languages
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gauthumj&count_private=true&theme=synthwave&layout=compact&langs_count=12">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gauthumj&count_private=true&theme=synthwave&layout=compact&langs_count=12">-->
 
 # My stats
 
-<img src = "https://github-readme-stats.vercel.app/api?username=gauthumj&show_icons=true&theme=synthwave">
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gauthumj?cardType=github&theme=vue-dark&fontFamily=Poppins&preferLogin=false)](https://git.io/awesome-stats-card)
 
 # Tools and Technologies
 
